@@ -20,7 +20,7 @@
 
 #### 数组篇
 
-- [leetcode146: LRU缓存机制](https://github.com/WangYeWei/JavaScript_Algorithms/issues/5)
+- [leetcode146：设计和实现一个LRU缓存机制](https://github.com/WangYeWei/JavaScript_Algorithms/issues/5)
 
 #### 二叉树
 
