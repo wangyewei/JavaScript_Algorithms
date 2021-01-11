@@ -13,6 +13,7 @@
 - [前端进阶算法1：如何分析、统计算法的执行效率和资源消耗](https://github.com/WangYeWei/JavaScript_Algorithms/issues/2)
 - [前端进阶算法2：从chrome v8源码看JavaScript数组](https://github.com/WangYeWei/JavaScript_Algorithms/issues/3)
 - [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/WangYeWei/JavaScript_Algorithms/issues/4)
+- [前端进阶算法4：链表原来如此简单](https://github.com/WangYeWei/JavaScript_Algorithms/issues/6)
 
 ### 深入掌握算法
 
