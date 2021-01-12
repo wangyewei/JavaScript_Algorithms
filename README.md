@@ -23,6 +23,10 @@
 
 - [leetcode146：设计和实现一个LRU缓存机制](https://github.com/WangYeWei/JavaScript_Algorithms/issues/5)
 
+#### 链表
+
+- [leetcode21: 合并两个有序链表](https://github.com/WangYeWei/JavaScript_Algorithms/issues/7)
+
 #### 二叉树
 
 ##### 二叉树基础
