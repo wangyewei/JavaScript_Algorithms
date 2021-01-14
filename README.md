@@ -28,6 +28,10 @@
 
 - [leetcode21: 合并两个有序链表](https://github.com/WangYeWei/JavaScript_Algorithms/issues/7)
 
+#### 栈
+
+- [leetcode155 & 字节：最小栈(包含geimin函数的栈)](https://github.com/WangYeWei/JavaScript_Algorithms/issues/9)
+
 #### 二叉树
 
 ##### 二叉树基础
