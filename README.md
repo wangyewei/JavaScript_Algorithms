@@ -15,6 +15,7 @@
 - [前端进阶算法3：从浏览器缓存淘汰策略和Vue的keep-alive学习LRU算法](https://github.com/WangYeWei/JavaScript_Algorithms/issues/4)
 - [前端进阶算法4：链表原来如此简单](https://github.com/WangYeWei/JavaScript_Algorithms/issues/6)
 - [前端进阶算法5：全方位解读前端用到的栈结构(调用栈、堆、垃圾回收等)](https://github.com/WangYeWei/JavaScript_Algorithms/issues/8)
+- [前端进阶算法6：一看就懂的队列](https://github.com/WangYeWei/JavaScript_Algorithms/issues/10)
 
 ### 深入掌握算法
 
@@ -30,7 +31,16 @@
 
 #### 栈
 
-- [leetcode155 & 字节：最小栈(包含geimin函数的栈)](https://github.com/WangYeWei/JavaScript_Algorithms/issues/9)
+- [leetcode155 & 字节：最小栈(包含getmin函数的栈)](https://github.com/WangYeWei/JavaScript_Algorithms/issues/9)
+
+#### 队列
+
+- leetcode239: 滑动窗口的最大值
+
+#### 字符串
+
+- leetcode151 & 字节：翻转字符串里的单词
+- leetcode3 & 字节： 无重复字符串最长字串
 
 #### 二叉树
 
