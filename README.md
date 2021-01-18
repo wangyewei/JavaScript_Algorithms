@@ -40,7 +40,7 @@
 #### 字符串
 
 - leetcode151 & 字节：翻转字符串里的单词
-- leetcode3 & 字节： 无重复字符串最长字串
+- [leetcode3 & 字节： 无重复字符串最长字串](https://github.com/WangYeWei/JavaScript_Algorithms/issues/11)
 
 #### 二叉树
 
