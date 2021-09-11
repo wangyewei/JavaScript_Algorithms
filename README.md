@@ -16,7 +16,7 @@
 - [前端进阶算法4：链表原来如此简单](https://github.com/WangYeWei/JavaScript_Algorithms/issues/6)
 - [前端进阶算法5：全方位解读前端用到的栈结构(调用栈、堆、垃圾回收等)](https://github.com/WangYeWei/JavaScript_Algorithms/issues/8)
 - [前端进阶算法6：一看就懂的队列](https://github.com/WangYeWei/JavaScript_Algorithms/issues/10)
-- 前端进阶算法7：大厂正在面的哈希表
+- [前端进阶算法7：大厂正在面的哈希表](https://github.com/WangYeWei/JavaScript_Algorithms/issues/14)
 
 ### 深入掌握算法
 
