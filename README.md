@@ -1,3 +1,4 @@
+
 ### 每日学习一个JavaScript算法、源码知识
 
 ------
@@ -22,7 +23,7 @@
 
 ---
 
-#### 数组篇
+#### 数组
 
 - [leetcode146：设计和实现一个LRU缓存机制](https://github.com/WangYeWei/JavaScript_Algorithms/issues/5)
 
@@ -47,9 +48,12 @@
 
 - 
 
-#### 二叉树
+#### 树
 
-##### 二叉树基础
+##### 二叉树
 
 - [美团：二叉树的左右子树交换](https://github.com/WangYeWei/JavaScript_Algorithms/issues/1)
 
+##### 前缀树(字典树)
+
+- [leetcode211：添加与搜索单词 - 数据结构设计](https://github.com/WangYeWei/JavaScript_Algorithms/issues/15)
