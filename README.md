@@ -1,4 +1,3 @@
-
 ### 每日学习一个JavaScript算法、源码知识
 
 ------
@@ -26,6 +25,8 @@
 #### 数组
 
 - [leetcode146：设计和实现一个LRU缓存机制](https://github.com/WangYeWei/JavaScript_Algorithms/issues/5)
+
+- [leetcode453：最小操作次数使数组元素相等](https://github.com/WangYeWei/JavaScript_Algorithms/issues/16)
 
 #### 链表
 
