@@ -28,6 +28,8 @@
 
 - [leetcode453：最小操作次数使数组元素相等](https://github.com/WangYeWei/JavaScript_Algorithms/issues/16)
 
+- [leetcode66: 加1](https://github.com/WangYeWei/JavaScript_Algorithms/issues/17)
+
 #### 链表
 
 - [leetcode21: 合并两个有序链表](https://github.com/WangYeWei/JavaScript_Algorithms/issues/7)
