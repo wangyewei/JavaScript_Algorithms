@@ -1,3 +1,13 @@
+<!--
+ * @Autor: YeWei Wang
+ * @Date: 2021-01-07 11:04:31
+ * @WeChat: wj826036
+ * @Motto: 求知若渴，虚心若愚
+ * @Description: 
+ * @LastEditTime: 2021-10-22 10:44:42
+ * @Version: 1.0
+ * @FilePath: \JavaScript_Algorithms\README.md
+-->
 ### 每日学习一个JavaScript算法、源码知识
 
 ------
@@ -49,7 +59,7 @@
 
 #### 哈希表
 
-- 
+- [leetcode229: 求众数 II](https://github.com/WangYeWei/JavaScript_Algorithms/issues/18)
 
 #### 树
 
