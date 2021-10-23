@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-22 10:44:42
+ * @LastEditTime: 2021-10-23 12:45:05
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -70,3 +70,8 @@
 ##### 前缀树(字典树)
 
 - [leetcode211：添加与搜索单词 - 数据结构设计](https://github.com/WangYeWei/JavaScript_Algorithms/issues/15)
+
+
+#### 数学
+
+-[leetcode429：构造矩形](https://github.com/WangYeWei/JavaScript_Algorithms/issues/19)
