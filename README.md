@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-23 12:45:05
+ * @LastEditTime: 2021-10-23 12:46:02
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -74,4 +74,4 @@
 
 #### 数学
 
--[leetcode429：构造矩形](https://github.com/WangYeWei/JavaScript_Algorithms/issues/19)
+- [leetcode429：构造矩形](https://github.com/WangYeWei/JavaScript_Algorithms/issues/19)
