@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-23 12:46:02
+ * @LastEditTime: 2021-10-23 13:51:17
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -47,6 +47,8 @@
 #### 栈
 
 - [leetcode155 & 字节：最小栈(包含getmin函数的栈)](https://github.com/WangYeWei/JavaScript_Algorithms/issues/9)
+
+- [剑指 Offer 09. 用两个栈实现队列](https://github.com/WangYeWei/JavaScript_Algorithms/issues/20)
 
 #### 队列
 
