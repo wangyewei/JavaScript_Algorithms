@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-24 16:29:09
+ * @LastEditTime: 2021-10-24 17:11:38
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -45,6 +45,8 @@
 #### 链表
 
 - [leetcode21: 合并两个有序链表](https://github.com/WangYeWei/JavaScript_Algorithms/issues/7)
+
+- [剑指 Offer 06. 从尾到头打印链表](https://github.com/WangYeWei/JavaScript_Algorithms/issues/22)
 
 #### 栈
 
