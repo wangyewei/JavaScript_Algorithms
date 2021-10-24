@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-23 13:51:17
+ * @LastEditTime: 2021-10-24 16:29:09
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -39,6 +39,8 @@
 - [leetcode453：最小操作次数使数组元素相等](https://github.com/WangYeWei/JavaScript_Algorithms/issues/16)
 
 - [leetcode66: 加1](https://github.com/WangYeWei/JavaScript_Algorithms/issues/17)
+
+- [leetcode638：大礼包](https://github.com/WangYeWei/JavaScript_Algorithms/issues/21)
 
 #### 链表
 
