@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-25 11:19:45
+ * @LastEditTime: 2021-10-25 14:26:36
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -65,7 +65,10 @@
 #### 字符串
 
 - [leetcode151 & 字节：翻转字符串里的单词](https://github.com/WangYeWei/JavaScript_Algorithms/issues/12)
+
 - [leetcode3 & 字节： 无重复字符串最长字串](https://github.com/WangYeWei/JavaScript_Algorithms/issues/11)
+
+- [剑指 Offer 05. 替换空格](https://github.com/WangYeWei/JavaScript_Algorithms/issues/25)
 
 #### 哈希表
 
