@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-26 21:19:01
+ * @LastEditTime: 2021-10-26 21:54:42
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -45,6 +45,12 @@
 - [leetcode240: 搜索二维矩阵 II](https://github.com/WangYeWei/JavaScript_Algorithms/issues/24)
 
 - [leetcode496： 下一个更大元素 I](https://github.com/WangYeWei/JavaScript_Algorithms/issues/27)
+
+- [剑指 Offer 03. 数组中重复的数字](https://github.com/WangYeWei/JavaScript_Algorithms/issues/28)
+
+- [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/WangYeWei/JavaScript_Algorithms/issues/29)
+
+- [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/WangYeWei/JavaScript_Algorithms/issues/30)
 
 #### 链表
 
