@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-26 11:16:00
+ * @LastEditTime: 2021-10-26 21:19:01
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -44,7 +44,7 @@
 
 - [leetcode240: 搜索二维矩阵 II](https://github.com/WangYeWei/JavaScript_Algorithms/issues/24)
 
-- [leetcode496： 下一个更大元素 I](https://github.com/WangYeWeiJavaScript_Algorithms/issues/27)
+- [leetcode496： 下一个更大元素 I](https://github.com/WangYeWei/JavaScript_Algorithms/issues/27)
 
 #### 链表
 
