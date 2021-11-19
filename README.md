@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-10-27 11:25:02
+ * @LastEditTime: 2021-11-18 16:47:45
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -90,11 +90,15 @@
 
 - [leetcode229: 求众数 II](https://github.com/WangYeWei/JavaScript_Algorithms/issues/18)
 
+- [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/WangYeWei/JavaScript_Algorithms/issues/34)
+
 #### 树
 
 ##### 二叉树
 
 - [美团：二叉树的左右子树交换](https://github.com/WangYeWei/JavaScript_Algorithms/issues/1)
+
+- [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/WangYeWei/JavaScript_Algorithms/issues/34)
 
 ##### 前缀树(字典树)
 
