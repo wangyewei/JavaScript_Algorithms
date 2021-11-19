@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-11-19 11:40:42
+ * @LastEditTime: 2021-11-19 16:52:33
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -99,6 +99,8 @@
 - [美团：二叉树的左右子树交换](https://github.com/WangYeWei/JavaScript_Algorithms/issues/1)
 
 - [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/WangYeWei/JavaScript_Algorithms/issues/35)
+
+- [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/WangYeWei/JavaScript_Algorithms/issues/37)
 
 ##### 前缀树(字典树)
 
