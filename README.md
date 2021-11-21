@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-11-19 16:52:33
+ * @LastEditTime: 2021-11-21 15:37:00
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -106,6 +106,9 @@
 
 - [leetcode211：添加与搜索单词 - 数据结构设计](https://github.com/WangYeWei/JavaScript_Algorithms/issues/15)
 
+##### N叉树
+
+- [559. N 叉树的最大深度](https://github.com/WangYeWei/JavaScript_Algorithms/issues/38)
 
 #### 数学
 
