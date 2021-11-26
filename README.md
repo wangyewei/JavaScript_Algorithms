@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description: 
- * @LastEditTime: 2021-11-21 23:10:51
+ * @LastEditTime: 2021-11-26 15:56:34
  * @Version: 1.0
  * @FilePath: \JavaScript_Algorithms\README.md
 -->
@@ -105,6 +105,8 @@
 - [剑指 Offer 26. 树的子结构](https://github.com/WangYeWei/JavaScript_Algorithms/issues/39)
 
 - [剑指 Offer 28. 对称的二叉树](https://github.com/WangYeWei/JavaScript_Algorithms/issues/40)
+
+- [leetcode 700. 二叉搜索树中的搜索](https://github.com/WangYeWei/JavaScript_Algorithms/issues/41)
 
 ##### 前缀树(字典树)
 
